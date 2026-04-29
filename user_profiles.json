@@ -1,0 +1,32 @@
+[
+  {
+    "name": "User 2",
+    "user_profile": {
+      "name": "UserProfile",
+      "model": {
+        "id": "user_1",
+        "class": "User",
+        "Accessibility": {
+          "Disability": {
+            "name": "Paraplegic",
+            "description": "can't use lower body",
+            "affects": "Mobility"
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "User Diagram",
+    "user_profile": {
+      "name": "UserProfile",
+      "model": {
+        "id": "user_1",
+        "class": "User",
+        "Personal_Information": {
+          "age": 65
+        }
+      }
+    }
+  }
+]
